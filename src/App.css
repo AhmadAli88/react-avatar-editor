@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+input[type='file'] {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+input[type='range'] {
+  margin-left: 10px;
+}
